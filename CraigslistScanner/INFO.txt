@@ -1,0 +1,3 @@
+Used with:
+beautifulsoup- pip install bs4
+requests - pip install requests
